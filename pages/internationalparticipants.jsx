@@ -69,10 +69,10 @@ export default function Internationalaparticipants() {
               1. Please fill in the required data correctly and ensure there are no writing errors. Also make sure that the data submitted is final and has not changed.
             </p>
             <p>
-              2. After making sure the data is correct, you can click <span className="fw-bold"> &quot;"SUBMIT FORM"&quot;</span> button once. If the data has been successfully submitted, you will be moved to another page.
+              2. After making sure the data is correct, you can click <span className="fw-bold"> &quot;SUBMIT FORM&quot;</span> button once. If the data has been successfully submitted, you will be moved to another page.
             </p>
             <p>
-              3. There will be an information email that the registration has been received sent to the team leader's email address, and the file will be validated by our team. Please be patient and wait for a maximum of 3 days after the registration time, the Letter of Acceptance (LOA) will be sent to the team leader's email address.
+              3. There will be an information email that the registration has been received sent to the team leaders email address, and the file will be validated by our team. Please be patient and wait for a maximum of 3 days after the registration time, the Letter of Acceptance (LOA) will be sent to the team leaders email address.
             </p>
             <br />
 
@@ -124,7 +124,7 @@ export default function Internationalaparticipants() {
                   </label>
                   <label>
                     <p>
-                    Noted: Input the name of the team leader and team member with the team leader's name at the beginning, with the following format:
+                    Noted: Input the name of the team leader and team member with the team leaders name at the beginning, with the following format:
                     </p>
                     <p>Note: maximum 1 member + 1 team leader</p>
                     <h6>Kamal Putra</h6>
@@ -245,7 +245,7 @@ export default function Internationalaparticipants() {
                   </label>
                   <label>
                     <p>
-                    Notes: Please fill in the email correctly, LOA submissions will be sent via the team leader's email address filled in.
+                    Notes: Please fill in the email correctly, LOA submissions will be sent via the team leaders email address filled in.
                     </p>
                   </label>
                   <input

@@ -23,8 +23,8 @@ export default function Home() {
           </div>
         </div>
         <div className="wrapper">
-            <a href="/internationalparticipants" className="btn btn-custom text-center me-lg-5 m-2">International Participant</a>
-            <a href="/indonesiaparticipants" className="btn btn-custom text-center me-lg-5 m-2">Indonesian Participant</a>
+            <Link href="/internationalparticipants" className="btn btn-custom text-center me-lg-5 m-2">International Participant</Link>
+            <Link href="/indonesiaparticipants" className="btn btn-custom text-center me-lg-5 m-2">Indonesian Participant</Link>
         </div>
       </section>
     </>
