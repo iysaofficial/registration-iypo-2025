@@ -285,6 +285,9 @@ export default function Indonesiaparticipants() {
                     <option value="Sekolah Menengah Atas">
                       Sekolah Menengah Atas
                     </option>
+                    <option value="Universitas">
+                      Universitas
+                    </option>
                   </select>
                 </div>
                 <div className="input-box">
