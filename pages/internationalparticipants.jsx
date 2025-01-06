@@ -302,6 +302,9 @@ export default function Internationalaparticipants() {
                     <option value="Senior High School">
                       Senior High School
                     </option>
+                    <option value="University">
+                      University
+                    </option>
                   </select>
                 </div>
                 <div className="input-box">
